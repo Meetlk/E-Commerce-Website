@@ -13,13 +13,11 @@ This project is a simple E-Commerce website built using the MERN stack. It enabl
 ## Steps to Run this Project:
 
 1. Clone this repository.
-2. Install required libraries by running the command `npm i` command.
-3. Download and pre-process weather data given in this repository.
-4. Train the machine learning model.
-5. Evaluate the model's performance.
+2. Install required libraries by running the command `npm install` in terminal.
+3. Run the Backend server using `cd backend` and then `npm start` commands.
+4. Start the Frontend project by running the commands `cd ../src` and then `npm start` in terminal.
+5. Open your browser and navigate to `http://localhost:3000`.
 
 ## Future Improvements
 
-* Explore the use of deep learning techniques for weather forecasting.
-* Incorporate additional data sources, such as satellite imagery or radar data.
-* Develop a web application or API to make weather predictions accessible to users.
+* Integrating the payment options after checkout of the items in cart.
