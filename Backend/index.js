@@ -13,7 +13,7 @@ app.use(cookieParser());
 app.use(express.json());
 app.use(
 	cors({
-		origin: "",
+		origin: "https://ecomzy-e-commerce-frontend.vercel.app",
 		credentials: true,
 	})
 );
