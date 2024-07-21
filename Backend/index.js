@@ -5,8 +5,6 @@ const app = express();
 require('dotenv').config();
 const PORT = process.env.PORT || 8080;
 
-//cookie-parser - what is this and why we need this ?
-
 const cookieParser = require("cookie-parser");
 app.use(cookieParser());
 
@@ -29,7 +27,6 @@ app.get('/', (req,res) => {
 })
 
 //activate
-
 app.listen(PORT, () => {
     console.log(`App is listening at ${PORT}`);
 })
