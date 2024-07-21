@@ -10,3 +10,16 @@ This project is a simple E-Commerce website built using the MERN stack. It enabl
 * **Password Protection:** User passwords are hashed using Bcrypt.
 * **JWT Verification:** Passwords are verified using JWT tokens.
 
+## Steps to Run this Project:
+
+1. Clone this repository.
+2. Install required libraries by running the command `npm i` command.
+3. Download and pre-process weather data given in this repository.
+4. Train the machine learning model.
+5. Evaluate the model's performance.
+
+## Future Improvements
+
+* Explore the use of deep learning techniques for weather forecasting.
+* Incorporate additional data sources, such as satellite imagery or radar data.
+* Develop a web application or API to make weather predictions accessible to users.
