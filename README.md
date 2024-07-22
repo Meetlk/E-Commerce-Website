@@ -20,4 +20,6 @@ This project is a simple E-Commerce website built using the MERN stack. It enabl
 
 ## Future Improvements
 
+* Adding rewards system to to make the user experience interesting.
 * Integrating the payment options after checkout of the items in cart.
+* Adding filters so that customer can easily find items or products most suitable for him.
