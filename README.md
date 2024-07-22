@@ -27,5 +27,6 @@ This project is a simple E-Commerce website built using the MERN stack. It enabl
 ## Screenshots
 ![Screenshot 2024-07-22 at 6 58 09 PM](https://github.com/user-attachments/assets/6276b6df-b151-4500-84c4-66ffc6ede96c)
 ![Screenshot 2024-07-22 at 6 58 29 PM](https://github.com/user-attachments/assets/2d74c814-435c-4dc0-ae36-0bd1122d00b4)
-![Screenshot 2024-07-22 at 6 58 43 PM](https://github.com/user-attachments/assets/989e9df7-6015-4134-b9ed-de716f09022c)
+![Screenshot 2024-07-22 at 7 06 06 PM](https://github.com/user-attachments/assets/b7842021-2773-4099-965f-73b81b732e3d)
+
 
