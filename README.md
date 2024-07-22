@@ -23,3 +23,9 @@ This project is a simple E-Commerce website built using the MERN stack. It enabl
 * Adding rewards system to to make the user experience interesting.
 * Integrating the payment options after checkout of the items in cart.
 * Adding filters so that customer can easily find items or products most suitable for him.
+
+## Screenshots
+![Screenshot 2024-07-22 at 6 58 09 PM](https://github.com/user-attachments/assets/6276b6df-b151-4500-84c4-66ffc6ede96c)
+![Screenshot 2024-07-22 at 6 58 29 PM](https://github.com/user-attachments/assets/2d74c814-435c-4dc0-ae36-0bd1122d00b4)
+![Screenshot 2024-07-22 at 6 58 43 PM](https://github.com/user-attachments/assets/989e9df7-6015-4134-b9ed-de716f09022c)
+
